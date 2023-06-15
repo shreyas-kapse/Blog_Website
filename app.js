@@ -12,7 +12,7 @@ app.use(morgan("dev"));
 app.use(express.static("public"));
 app.use(express.urlencoded({ extended: true }));
 
-const dburl = "mongodb+srv://test:test123@cluster0.cp0afe5.mongodb.net/";
+const dburl = "mongodb+srv://db:pass@cluster0.cp0afe5.mongodb.net/";
 mongoose
   .connect(dburl, { useNewUrlParser: true, useUnifiedTopology: true })
   .then((result) => {
