@@ -25,8 +25,8 @@ The Blogging Website is built using the following technologies:
 
 ## Screenshots
 
-![Screenshot 1](https://example.com/path/to/screenshot1.png)
-*Caption for Screenshot 1*
+![Screenshot 1](https://github.com/shreyas-kapse/Blog_Website/blob/main/Screenshots/Screenshot%202023-07-03%20220431.png)
+*Create blog page*
 
 ![Screenshot 2](https://example.com/path/to/screenshot2.png)
 *Caption for Screenshot 2*
