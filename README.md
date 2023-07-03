@@ -25,11 +25,20 @@ The Blogging Website is built using the following technologies:
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/shreyas-kapse/Blog_Website/blob/main/Screenshots/Screenshot%202023-07-03%20220431.png)
+![Screenshot 1](https://github.com/shreyas-kapse/Blog_Website/blob/main/Screenshots/Screenshot%202023-07-03%20220934.png)
 *Create blog page*
 
-![Screenshot 2](https://example.com/path/to/screenshot2.png)
-*Caption for Screenshot 2*
+![Screenshot 2](https://github.com/shreyas-kapse/Blog_Website/blob/main/Screenshots/Screenshot%202023-07-03%20221029.png)
+*Home Page*
+
+![Screenshot 3](https://github.com/shreyas-kapse/Blog_Website/blob/main/Screenshots/Screenshot%202023-07-03%20230815.png)
+*About Us*
+
+![Screenshot 4](https://github.com/shreyas-kapse/Blog_Website/blob/main/Screenshots/Screenshot%202023-07-03%20231216.png)
+*Individual blog*
+
+![Screenshot 5](https://github.com/shreyas-kapse/Blog_Website/blob/main/Screenshots/Screenshot%202023-07-03%20232801.png)
+*MongoDB Database *
 
 ## Demo Video
 
