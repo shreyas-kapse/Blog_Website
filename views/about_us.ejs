@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-    <%- include('head.ejs') %>
+<%- include('head.ejs') %>
 
-<body>
-    <%- include('nav.ejs') %>
+    <body>
+        <%- include('nav.ejs') %>
+            <!-- <h1> About us</h1>
     
     <div class="about content">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum blanditiis beatae similique nihil, ipsum voluptatibus at quasi, labore odit reiciendis pariatur quam numquam harum reprehenderit voluptas dicta quis aperiam laborum!</p>
@@ -12,7 +13,79 @@
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error iure odio quisquam illum numquam voluptatibus illo nemo fugit inventore laboriosam quis, beatae minus velit cum deleniti, ratione perferendis, in voluptas.</p>
     
     </div>
-    <h1> About us</h1>
-    <%- include('footer.ejs') %>
-</body>
+      -->
+            <!DOCTYPE html>
+            <html lang="en">
+
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+                <title>About Me</title>
+                <style>
+                    .about {
+                        margin: 40px;
+                    }
+
+                    .about h2 {
+                        font-size: 24px;
+                        color: #333;
+                        margin-bottom: 10px;
+                    }
+
+                    .about p {
+                        font-size: 16px;
+                        color: #666;
+                        line-height: 1.5;
+                        margin-bottom: 20px;
+                    }
+
+                    .about ul {
+                        list-style: none;
+                        padding: 0;
+                    }
+
+                    .about ul li {
+                        margin-bottom: 10px;
+                    }
+
+                    .about ul li a {
+                        text-decoration: none;
+                        color: #333;
+                        font-size: 16px;
+                        transition: color 0.3s ease;
+                    }
+
+                    .about ul li a:hover {
+                        color: #007bff;
+                    }
+                </style>
+
+            </head>
+
+            <body>
+                <header>
+                    <h1>About Me</h1>
+                </header>
+
+                <div class="about content">
+                    <h2>Hello, I'm Shreyas Kapse</h2>
+                    <p> I'm a B.Tech student at VIT Pune with a passion for software and Android app development.
+                        Proficient in Java and C++, I excel in problem-solving through data structures and algorithms.
+                        Experienced in SQL and MongoDB for backend development.
+                    </p>
+                    <p>Connect with me on:</p>
+                    <ul>
+                        <li><a href="https://www.linkedin.com/in/shreyas-kapse-k171/">LinkedIn</a></li>
+                        <li><a href="https://github.com/shreyas-kapse">GitHub</a></li>
+                    </ul>
+                </div>
+
+            </body>
+
+            </html>
+
+            <%- include('footer.ejs') %>
+    </body>
+
 </html>
